@@ -48,4 +48,3 @@ vertices before the resimulation. This approach for deleting nodes is needed
 given the book-keeping of calculating the new edges list.
 }
 \keyword{module}
-

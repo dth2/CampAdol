@@ -26,4 +26,3 @@ This function reinitializes an epidemic model to restart at a
              specified time step given an input \code{netsim} object.
 }
 \keyword{module}
-

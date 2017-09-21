@@ -19,4 +19,3 @@ Module function to track the risk history defined by UAI of uninfected persons
              for purpose of intervention targeting.
 }
 \keyword{module}
-
