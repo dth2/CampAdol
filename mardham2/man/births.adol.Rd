@@ -29,4 +29,3 @@ a part of the network model formulae are updated as vertex attributes on the
 network objects.
 }
 \keyword{module}
-

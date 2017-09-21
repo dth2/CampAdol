@@ -28,4 +28,3 @@ one-partnerships contained in the \code{nwstats} data.
 \seealso{
 \code{\link{update_degree}}
 }
-

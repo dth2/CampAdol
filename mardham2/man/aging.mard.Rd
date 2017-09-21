@@ -21,4 +21,3 @@ updated on the three networks.
 Module for aging over time for active nodes in the population.
 }
 \keyword{module}
-
