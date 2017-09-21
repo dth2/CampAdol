@@ -16,4 +16,3 @@ individual-level attributes, and summary statistics.}
 Module function for implementation and uptake of pre-exposure
              prophylaxis (PrEP) to prevent HIV infection.
 }
-
