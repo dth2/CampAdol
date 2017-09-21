@@ -33,4 +33,3 @@ deaths after nodes have reach a maximum viral load value set in the
 \code{vl.fatal} parameter.
 }
 \keyword{module}
-

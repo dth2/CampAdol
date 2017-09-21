@@ -102,4 +102,3 @@ Network statistics calculated here are entered into \code{\link{base_nw.adol}}
 to construct the base network, and then into the parameters in
 \code{\link{param.adol}}.
 }
-

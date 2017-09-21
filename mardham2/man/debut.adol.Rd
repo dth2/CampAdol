@@ -22,4 +22,3 @@ Module for sexual debut over time for active nodes in the population.  Having de
 require that AI occur.  It is a debut in terms of identity and willingness not action.
 }
 \keyword{module}
-
