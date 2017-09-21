@@ -31,4 +31,3 @@ as a race-based vertex attribute on the output network.
 \seealso{
 \code{\link{assign_degree}}
 }
-

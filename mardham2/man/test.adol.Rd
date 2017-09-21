@@ -26,4 +26,3 @@ geometrically-distributed waiting times to test (constant hazard); and interval
 for deterministic tested after defined waiting time intervals.
 }
 \keyword{module}
-

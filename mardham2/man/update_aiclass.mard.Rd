@@ -21,4 +21,3 @@ Module function for updating act class in one-off partnerships
              based on probabilities of transition.
 }
 \keyword{module}
-
