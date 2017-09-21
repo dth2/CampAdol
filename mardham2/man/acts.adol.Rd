@@ -30,4 +30,3 @@ from a Poisson distribution. The number of total acts may further be modified
 by the level of HIV viral suppression in an infected person.
 }
 \keyword{module}
-
