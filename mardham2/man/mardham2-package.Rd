@@ -2,8 +2,8 @@
 % Please edit documentation in R/mardham2-package.R
 \docType{package}
 \name{mardham2-package}
-\alias{mardham2}
 \alias{mardham2-package}
+\alias{mardham2}
 \title{Modeling Approaches to Racial Disparities in HIV in Atlanta MSM in EpiModel}
 \description{
 \tabular{ll}{
@@ -23,4 +23,3 @@ into EpiModel modules for greater flexibility and efficiency, and then
 adds additional features like pre-exposure prophylaxis (PrEP).
 }
 \keyword{package}
-

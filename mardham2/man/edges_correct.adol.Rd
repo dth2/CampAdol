@@ -35,4 +35,3 @@ composition effects in exponential-family random graph models." Statistical
 Methodology. 2011; 8.4: 319-339.
 }
 \keyword{module}
-

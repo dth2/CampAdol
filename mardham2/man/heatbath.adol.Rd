@@ -34,4 +34,3 @@ an age and risk catagory specific probability of aquiring HIV from the heat bath
 THe input values \code{dat$param$heat.prob} is an Riskg by age matrix.
 }
 \keyword{module}
-
